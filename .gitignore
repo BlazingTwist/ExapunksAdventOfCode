@@ -1,0 +1,18 @@
+# Ignore everything
+/*
+
+
+# Except for configuration files
+!/.gitignore
+!/jest.config.ts
+!/package.json
+!/package-lock.json
+!/README.md
+
+
+# And: Except for utility code
+!/__extra/
+
+
+# And: Except for AoC level files
+!/aoc*.js
