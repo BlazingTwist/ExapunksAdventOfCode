@@ -12,7 +12,6 @@
 ### AoC Puzzles Status
 
 Puzzles are categorized into 3 statuses:
-
 1. Uploaded - Completed level, solved in Exapunks, uploaded to Workshop.
 2. Unsolved - Completed the level, but did not solve in Exapunks yet.
 3. Unfinished - Level is still WIP.
