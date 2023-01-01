@@ -4,7 +4,7 @@ beforeEach(() => {
     global.console = require('console');
 });
 
-test('coneOnDemand', () => {
+test('codeOnDemand', () => {
     let data = getRawBackpackData(2);
     let expected = getExpectedResult(data);
     console.log("expectedResult: " + expected);
