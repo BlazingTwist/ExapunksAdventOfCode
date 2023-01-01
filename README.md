@@ -23,6 +23,26 @@ Puzzles are categorized into 3 statuses:
 |Day 3: Rucksack Reorganization ⚠️|[Unsolved](https://github.com/BlazingTwist/ExapunksAdventOfCode/blob/master/aocDay3Part1.js)|[Unsolved](https://github.com/BlazingTwist/ExapunksAdventOfCode/blob/master/aocDay3Part2.js)|
 |Day 4: Camp Cleanup|[Uploaded](https://steamcommunity.com/sharedfiles/filedetails/?id=2910420813)|[Uploaded](https://steamcommunity.com/sharedfiles/filedetails/?id=2910420901)|
 |Day 5: Supply Stacks|[Uploaded](https://steamcommunity.com/sharedfiles/filedetails/?id=2910531266)|[Uploaded](https://steamcommunity.com/sharedfiles/filedetails/?id=2910531330)|
+|Day 6: Tuning Trouble|Unfinished|Unfinished|
+|Day 7: No Space Left On Device|Unfinished|Unfinished|
+|Day 8: Treetop Tree House|Unfinished|Unfinished|
+|Day 9: Rope Bridge|Unfinished|Unfinished|
+|Day 10: Cathode-Ray Tube|Unfinished|Unfinished|
+|Day 11: Monkey in the Middle|Unfinished|Unfinished|
+|Day 12: Hill Climbing Algorithm|Unfinished|Unfinished|
+|Day 13: Distress Signal|Unfinished|Unfinished|
+|Day 14: Regolith Reservoir|Unfinished|Unfinished|
+|Day 15: Beacon Exclusion Zone|Unfinished|Unfinished|
+|Day 16: Proboscidea Volcanium|Unfinished|Unfinished|
+|Day 17: Pyroclastic Flow|Unfinished|Unfinished|
+|Day 18: Boiling Boulders|Unfinished|Unfinished|
+|Day 19: Not Enough Minerals|Unfinished|Unfinished|
+|Day 20: Grove Positioning System|Unfinished|Unfinished|
+|Day 21: Monkey Math|Unfinished|Unfinished|
+|Day 22: Monkey Map|Unfinished|Unfinished|
+|Day 23: Unstable Diffusion|Unfinished|Unfinished|
+|Day 24: Blizzard Basin|Unfinished|Unfinished|
+|Day 25: Full of Hot Air|Unfinished|Unfinished|
 
 <br/>
 
